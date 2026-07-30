@@ -1,6 +1,0 @@
-1. Delete the old repository files.
-2. Upload ALL files and folders from this package directly to the repository root.
-3. Confirm index.html is on the first repository screen.
-4. Settings > Pages > Deploy from branch > main > /(root).
-5. Wait for deployment, then hard refresh.
-6. Confirm BUILD 2026.07.30.3 appears in the sidebar.
