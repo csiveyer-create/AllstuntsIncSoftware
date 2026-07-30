@@ -1,0 +1,23 @@
+IMPORTANT: Upload THESE FILES DIRECTLY INTO THE ROOT OF YOUR GITHUB REPOSITORY.
+
+The repository front page must show index.html at the top level, alongside:
+- assets
+- css
+- data
+- js
+- manifest.webmanifest
+- sw.js
+- .nojekyll
+
+Do not upload the enclosing folder as one nested folder while leaving an older index.html at the repository root.
+
+After uploading:
+1. Open GitHub repository > Settings > Pages.
+2. Select Deploy from a branch.
+3. Select main and /(root), then Save.
+4. Wait 1–3 minutes.
+5. Open the Pages website and hard refresh:
+   Mac: Command + Shift + R
+   Windows: Ctrl + F5
+
+You should see BUILD 2026.07.30.2 at the lower left. The dashboard should show 1,612 assets.
